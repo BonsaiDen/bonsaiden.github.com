@@ -1,5 +1,9 @@
-Archive: stable
-Component: contrib
 Origin: Ivo Wetzel
 Label: Atarashii
-Architecture: all
+Suite: stable
+Date: Sun Mar 21 00:31:46 +0000 2010
+Architectures: all
+Components: contrib
+Description: The Atarashii Twitter Client
+MD5Sum:
+83518bf316ccf8b1cb7bdb601764f196 552 Packages.gz
